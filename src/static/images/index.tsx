@@ -13,6 +13,7 @@ import ViaViajes from "./Viaviajes.png";
 import PreferredEnergyPower from "./PreferredEnergyPower.png";
 import TaskFlowAI from "./TaskFlowAI.png";
 import Allsafebackflow from "./allsafebackflow.png"
+import SolarComfortUSA from "./SolarComfortUSA.png"
 
 export const images = {
     logo: LogoImage,
@@ -28,7 +29,8 @@ export const images = {
     viaviajes: ViaViajes,
     preferredEnergyPower: PreferredEnergyPower,
     taskFlowAI: TaskFlowAI,
-    Allsafebackflow: Allsafebackflow
+    Allsafebackflow: Allsafebackflow,
+    SolarComfortUSA: SolarComfortUSA
 };
 
 type ImageProps = {
@@ -68,4 +70,4 @@ export const Image: FC<ImageProps> = ({
 };
 
 // default export of the images
-export { Preview, TECHapp, lacostillita, thewinenation, Lumiflowca, Sagcomstore, BlueWaveEnergy, CrealabStudio, ViaViajes, PreferredEnergyPower, TaskFlowAI, Allsafebackflow };
+export { Preview, TECHapp, lacostillita, thewinenation, Lumiflowca, Sagcomstore, BlueWaveEnergy, CrealabStudio, ViaViajes, SolarComfortUSA, PreferredEnergyPower, TaskFlowAI, Allsafebackflow };

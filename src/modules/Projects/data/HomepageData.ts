@@ -1,6 +1,90 @@
-import { thewinenation, Lumiflowca, Sagcomstore, BlueWaveEnergy, CrealabStudio, ViaViajes, PreferredEnergyPower, TaskFlowAI, Allsafebackflow } from "@static/images";
+import { thewinenation, Lumiflowca, Sagcomstore, BlueWaveEnergy, CrealabStudio, ViaViajes, PreferredEnergyPower, SolarComfortUSA, Allsafebackflow } from "@static/images";
 
 export const HomepageData = [
+    {        
+  title: "Solar Comfort USA",
+  image: {
+    src: SolarComfortUSA.src,
+    width: SolarComfortUSA.width,
+    height: SolarComfortUSA.height,
+    alt: "Solar Comfort USA",
+  },
+  links: [
+    {
+      title: "Visitar",
+      link: "https://solarcomfortusa.com/",
+    },
+  ],
+  extraInfo: [
+    {
+      title: "Tecnologías y Herramientas",
+      description: "WordPress, PHP, Elementor, WPForms, TranslatePress, Yoast SEO, HTML-CSS, JavaScript, Google Analytics",
+    },
+    {
+      title: "Fecha",
+      description: "2026-04-01",
+    },
+    {
+      title: "Cliente",
+      description: "Solar Comfort USA",
+    },
+  ],
+  content: `
+      <section id="proyecto-solar-comfort-usa" class="proyecto">
+          <h3>☀️ Proyecto: Solar Comfort USA – Plataforma Web Corporativa para Servicios Solares y Eléctricos</h3>
+          <p><strong>Cliente:</strong> Solar Comfort USA – Empresa especializada en instalación, mantenimiento, reparación de paneles solares y soluciones eléctricas integrales</p>
+          <p><strong>Rol:</strong> Desarrollador WordPress & Diseñador Web Estratégico</p>
+          <p><strong>Año:</strong> 2026</p>
+          <p><strong>URL:</strong> 
+              <a href="https://solarcomfortusa.com/" target="_blank" rel="noopener noreferrer">solarcomfortusa.com</a>
+          </p>
+          <hr>
+
+          <h4>🎯 Objetivo del proyecto</h4>
+          <p>Diseñar y desarrollar un sitio web corporativo moderno, confiable y orientado a conversión para fortalecer la presencia digital de Solar Comfort USA en el mercado estadounidense, mostrando de forma clara sus servicios de energía solar y electricidad, aumentando la captación de clientes potenciales y transmitiendo autoridad técnica dentro del sector energético.</p>
+
+          <h4>🛠️ Tecnologías y herramientas</h4>
+          <ul>
+              <li><strong>CMS:</strong> WordPress optimizado para escalabilidad, seguridad y velocidad de carga</li>
+              <li><strong>Backend:</strong> PHP para personalizaciones internas y lógica de formularios</li>
+              <li><strong>Constructor visual:</strong> Elementor para diseño profesional editable y modular</li>
+              <li><strong>Plugins estratégicos:</strong>
+              <ul>
+                  <li><em>WPForms</em> para formularios de contacto, solicitudes de servicio y cotización</li>
+                  <li><em>TranslatePress</em> para versión multilenguaje enfocada en público inglés/español</li>
+                  <li><em>Yoast SEO</em> para posicionamiento en búsquedas locales de energía solar y electricistas</li>
+              </ul>
+              </li>
+              <li><strong>Analítica:</strong> Google Analytics y seguimiento de interacciones de usuarios</li>
+              <li><strong>Frontend:</strong> HTML5, CSS3 y JavaScript para animaciones, UX y navegación fluida</li>
+          </ul>
+
+          <h4>📱 Características destacadas</h4>
+          <ul>
+              <li><strong>Diseño corporativo premium:</strong> interfaz moderna alineada con el rubro de energía renovable y servicios técnicos</li>
+              <li><strong>Arquitectura de servicios:</strong> organización clara entre instalación solar, mantenimiento, reparación y servicios eléctricos</li>
+              <li><strong>Formularios de captación:</strong> puntos estratégicos para solicitud rápida de presupuestos y consultas</li>
+              <li><strong>Sistema multilenguaje:</strong> sitio adaptado para clientes hispanos y angloparlantes</li>
+              <li><strong>Optimización responsive:</strong> experiencia fluida en desktop, tablet y móvil</li>
+              <li><strong>SEO local:</strong> estructura orientada a búsquedas como "solar panel installation", "solar repair" y "electrical services near me"</li>
+              <li><strong>Sección de confianza comercial:</strong> testimonios, beneficios, garantías y llamada directa a la acción</li>
+              <li><strong>Velocidad y rendimiento:</strong> optimización visual sin sacrificar tiempo de carga</li>
+          </ul>
+
+          <h4>📊 Resultados e impacto</h4>
+          <ul>
+              <li>Incremento notable en la imagen profesional y credibilidad online de la empresa</li>
+              <li>Mejora en la captación de leads mediante formularios visibles y CTAs estratégicos</li>
+              <li>Mayor claridad en la comunicación de servicios técnicos complejos</li>
+              <li>Optimización para posicionamiento orgánico en el nicho solar y eléctrico local</li>
+              <li>Plataforma autoadministrable preparada para futuras campañas de marketing</li>
+          </ul>
+
+          <h4>🧠 Valor agregado</h4>
+          <p>Este proyecto refleja mi capacidad para crear <strong>sitios web corporativos de alto impacto enfocados en empresas técnicas y de servicios especializados</strong>, combinando diseño estratégico, experiencia de usuario, captación comercial y posicionamiento SEO para negocios que necesitan transmitir confianza y generar conversiones reales.</p>
+      </section>
+  `,
+},
     {        
         title: "Preferred Energy Power",
         image: {
