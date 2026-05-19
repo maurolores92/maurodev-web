@@ -35,12 +35,6 @@ export const Navigation: FC = () => {
                             Contacto
                         </a>
                     </li>
-                    <li>
-                        <a href="https://codewithmauricio.tech" target="_blank" rel="noopener noreferrer">
-                            <Icon iconData="work" alt="AI tools icon" />
-                            App
-                        </a>
-                    </li>
                     <S.NavigationSocials />
                 </S.NavigationList>
             </S.NavigationListWrapper>
