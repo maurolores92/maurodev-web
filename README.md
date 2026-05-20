@@ -1,84 +1,88 @@
+# MauroDev Portfolio
 
-# 🚀 MauroDev - Personal Portfolio Template - Astro.build + react
+Portfolio profesional desarrollado con Astro, React y TypeScript.
 
-## 🚀 [LIVEW PREVIEW](https://codewithmauricio.tech/) 🚀
+Este proyecto fue diseñado con foco en rendimiento, SEO avanzado, experiencia de usuario moderna y animaciones interactivas.
 
-## 🧞 Features
+---
 
-- ✅ Light/dark mode
-- ✅ Best SEO practices
-- ✅ 4 ready pages
-- ✅ 10+ blocks ready to use
-- ✅ very good page speed
-- ✅ React hook form for contact
-- ✅ Zod for contact validation
-- ✅ RWD
-- ✅ emailjs for contact form api
-- ✅ gsap animations
-- ✅ slider
-- ✅ popups
-- ✅ form validation
-- & more
+## 🚀 Tecnologías Utilizadas
 
-All blocks are created in React - very easy to customize or copy&paste
+- Astro
+- React
+- TypeScript
+- GSAP
+- Material UI
+- Bootstrap
+- Firebase
+- Contentful CMS
+- React Hook Form
+- Zod
+- Swiper
+- Axios
 
-## 🚀 Static Media
+---
 
-There are 3 folders
+## ✨ Características
 
-- fonts
-- images
-- icons
+- SEO optimizado
+- Diseño totalmente responsive
+- Animaciones modernas con GSAP y AOS
+- Arquitectura híbrida Astro + React
+- Componentes dinámicos
+- Optimización de rendimiento
+- Formularios con validación avanzada
+- Integración con CMS
+- UI/UX moderna e interactiva
+- Compresión y optimización de assets
 
-every of those folders have index.ts where you can find import / export files + for images and icons, we create special components
+---
 
-## 🚀 Images
+## ⚡ Enfoque en Performance
 
-```http
-  example <Image src="logo" alt="logo" width="50px" height="50px" />
-```
+El proyecto fue desarrollado priorizando:
 
-## 🚀 Icons
+- Carga rápida
+- Optimización SEO
+- Arquitectura escalable
+- Generación estática con Astro
+- Optimización de recursos
+- Lazy loading
+- Sitemap automático
+- Buenas prácticas frontend
 
-```http
-  example <Icon iconData="home" alt="home" />
-```
+---
 
-use those componets for media to keep best performance or in astro files use images from astro - also good!
+## 🎨 Animaciones e Interfaz
 
-## 🚀 Styles
+La experiencia visual incluye:
 
-All global styles like, colors, fonts, normalize or things like mediaQuery are stored in styles forlder, 
+- Animaciones avanzadas con GSAP
+- Scroll animations
+- Sliders interactivos
+- Efectos modernos UI
+- Componentes responsivos
+- Experiencia fluida en desktop y mobile
 
-## 🚀 Theme colors
+---
 
-Folder colors > index.ts - you willl find enum Colors, DarkTheme,  LightTheme, ThemeVar & Theme
+## 🔍 SEO Optimizado
 
-to keep code consistand use only enum Theme, to have very easy switch between light and dark colors
-## 🧞 Commands
+El sitio fue construido siguiendo estrategias modernas de SEO:
 
-#### All commands are run from the root of the project, from a terminal:
+- HTML semántico
+- Sitemap automático
+- Metadatos optimizados
+- Mobile First
+- Accesibilidad mejorada
+- Optimización de velocidad
+- Buenas prácticas Core Web Vitals
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+---
 
-# 🚀 Sitemap & robots.tsx
+## 📦 Instalación
 
-## IMPORTANT
+Clonar el repositorio:
 
-Change links & add all your pages into sitemap.cjs to have better SEO optmalization!
-
-## 🧞 Contact & Support
-
-If you have any problems or questions, please let us know here:  [Contact Form](https://codewithmauricio.tech/contact/)
-
-## Authors
-
-- [@maurolores92](https://codewithmauricio.tech/)
-
+```bash
+git clone https://github.com/maurolores92/maurodev-web.git
