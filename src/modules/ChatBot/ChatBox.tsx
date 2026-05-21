@@ -19,7 +19,7 @@ const theme = {
 };
 
 const steps = [
-  { id: '1', message: '¡Hola! Soy Mauricio, un desarrollador web con experiencia en React, TypeScript, y más. ¿En qué puedo ayudarte hoy?', trigger: 'options' },
+  { id: '1', message: '¡Hola! Soy MauroDev, un desarrollador web con experiencia en React, TypeScript, y más. ¿En qué puedo ayudarte hoy?', trigger: 'options' },
   
   // Opciones principales
   { id: 'options', options: [

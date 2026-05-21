@@ -61,25 +61,31 @@ export const About: FC<AboutProps> = ({ hideExp }) => {
                                 <h3>Certificaciones y Experiencia Profesional</h3>
                                 <S.AboutContentBoxesWrapper>
                                     <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener" style={{textDecoration:'none'}}>
-                                        <TextBox variant="background-text" bgText="Junior">
+                                        <TextBox variant="background-text" bgText="Javascript">
                                             <h4>Javascript</h4>
                                             <p>4 años</p>
                                         </TextBox>
                                     </a>
                                     <a href="https://react.dev/" target="_blank" rel="noopener" style={{textDecoration:'none'}}>
-                                        <TextBox variant="background-text" bgText="Junior">
+                                        <TextBox variant="background-text" bgText="React">
                                             <h4>React</h4>
                                             <p>3 años</p>
                                         </TextBox>
                                     </a>
                                     <a href="https://nextjs.org/" target="_blank" rel="noopener" style={{textDecoration:'none'}}>
-                                        <TextBox variant="background-text" bgText="junior">
+                                        <TextBox variant="background-text" bgText="Next">
                                             <h4>Next.js</h4>
                                             <p>3 años</p>
                                         </TextBox>
                                     </a>
                                     <a href="https://docs.nestjs.com/" target="_blank" rel="noopener" style={{textDecoration:'none'}}>
-                                        <TextBox variant="background-text" bgText="Junior">
+                                        <TextBox variant="background-text" bgText="NestJs">
+                                            <h4>Next.js</h4>
+                                            <p>3 años</p>
+                                        </TextBox>
+                                    </a>
+                                    <a href="https://docs.nestjs.com/" target="_blank" rel="noopener" style={{textDecoration:'none'}}>
+                                        <TextBox variant="background-text" bgText="NestJs">
                                             <h4>NestJs</h4>
                                             <p>1 año</p>
                                         </TextBox>

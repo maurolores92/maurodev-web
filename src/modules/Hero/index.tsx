@@ -28,18 +28,24 @@ export const Hero: FC = () => {
                         <S.PreHeading data-aos="fade-up">
                             Hola, soy <strong>MauroDev</strong>
                         </S.PreHeading>
-                        <S.HeroTitle>Web Developer</S.HeroTitle>
+                        <S.HeroTitle>Full Stack Developer</S.HeroTitle>
                         <p>
-                            Soy <b>Desarrollador FullStack</b> con mas de <b>4</b> años de experiencia en la industria.
+                            Especializado en plataformas web modernas, eCommerce y sistemas escalables.
                         </p>
                     </FadeIn>
                     <FadeIn delay={0.3}>
                         <Socials />
                     </FadeIn>
                     <FadeIn delay={0.4}>
-                        <Button link={SamplePdf} target="_blank">
-                            Descargar CV
-                        </Button>
+                        <div style={{ display: "flex", gap: "1rem", justifyContent: "center" }}>
+                            <Button link={SamplePdf} target="_blank">
+                                Descargar CV
+                            </Button>
+
+                            <Button link="https://github.com/maurolores92" target="_blank">
+                                GitHub
+                            </Button>
+                        </div>
                     </FadeIn>
                 </S.HeroContent>
             </Container>

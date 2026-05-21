@@ -30,141 +30,99 @@ export const HomepageData = [
     },
   ],
   content: `
-      <section id="proyecto-solar-comfort-usa" class="proyecto">
-          <h3>☀️ Proyecto: Solar Comfort USA – Plataforma Web Corporativa para Servicios Solares y Eléctricos</h3>
-          <p><strong>Cliente:</strong> Solar Comfort USA – Empresa especializada en instalación, mantenimiento, reparación de paneles solares y soluciones eléctricas integrales</p>
-          <p><strong>Rol:</strong> Desarrollador WordPress & Diseñador Web Estratégico</p>
-          <p><strong>Año:</strong> 2026</p>
-          <p><strong>URL:</strong> 
-              <a href="https://solarcomfortusa.com/" target="_blank" rel="noopener noreferrer">solarcomfortusa.com</a>
-          </p>
-          <hr>
+      <section>
 
-          <h4>🎯 Objetivo del proyecto</h4>
-          <p>Diseñar y desarrollar un sitio web corporativo moderno, confiable y orientado a conversión para fortalecer la presencia digital de Solar Comfort USA en el mercado estadounidense, mostrando de forma clara sus servicios de energía solar y electricidad, aumentando la captación de clientes potenciales y transmitiendo autoridad técnica dentro del sector energético.</p>
+        <h3>Solar Comfort USA</h3>
 
-          <h4>🛠️ Tecnologías y herramientas</h4>
-          <ul>
-              <li><strong>CMS:</strong> WordPress optimizado para escalabilidad, seguridad y velocidad de carga</li>
-              <li><strong>Backend:</strong> PHP para personalizaciones internas y lógica de formularios</li>
-              <li><strong>Constructor visual:</strong> Elementor para diseño profesional editable y modular</li>
-              <li><strong>Plugins estratégicos:</strong>
-              <ul>
-                  <li><em>WPForms</em> para formularios de contacto, solicitudes de servicio y cotización</li>
-                  <li><em>TranslatePress</em> para versión multilenguaje enfocada en público inglés/español</li>
-                  <li><em>Yoast SEO</em> para posicionamiento en búsquedas locales de energía solar y electricistas</li>
-              </ul>
-              </li>
-              <li><strong>Analítica:</strong> Google Analytics y seguimiento de interacciones de usuarios</li>
-              <li><strong>Frontend:</strong> HTML5, CSS3 y JavaScript para animaciones, UX y navegación fluida</li>
-          </ul>
+        <p>
+        Sitio web corporativo desarrollado para una empresa de servicios solares y eléctricos en Estados Unidos, enfocado en captación de clientes, posicionamiento local y presencia profesional.
+        </p>
 
-          <h4>📱 Características destacadas</h4>
-          <ul>
-              <li><strong>Diseño corporativo premium:</strong> interfaz moderna alineada con el rubro de energía renovable y servicios técnicos</li>
-              <li><strong>Arquitectura de servicios:</strong> organización clara entre instalación solar, mantenimiento, reparación y servicios eléctricos</li>
-              <li><strong>Formularios de captación:</strong> puntos estratégicos para solicitud rápida de presupuestos y consultas</li>
-              <li><strong>Sistema multilenguaje:</strong> sitio adaptado para clientes hispanos y angloparlantes</li>
-              <li><strong>Optimización responsive:</strong> experiencia fluida en desktop, tablet y móvil</li>
-              <li><strong>SEO local:</strong> estructura orientada a búsquedas como "solar panel installation", "solar repair" y "electrical services near me"</li>
-              <li><strong>Sección de confianza comercial:</strong> testimonios, beneficios, garantías y llamada directa a la acción</li>
-              <li><strong>Velocidad y rendimiento:</strong> optimización visual sin sacrificar tiempo de carga</li>
-          </ul>
+        <p>
+        <strong>Stack:</strong> WordPress, Elementor, PHP, JavaScript, SEO
+        </p>
 
-          <h4>📊 Resultados e impacto</h4>
-          <ul>
-              <li>Incremento notable en la imagen profesional y credibilidad online de la empresa</li>
-              <li>Mejora en la captación de leads mediante formularios visibles y CTAs estratégicos</li>
-              <li>Mayor claridad en la comunicación de servicios técnicos complejos</li>
-              <li>Optimización para posicionamiento orgánico en el nicho solar y eléctrico local</li>
-              <li>Plataforma autoadministrable preparada para futuras campañas de marketing</li>
-          </ul>
+        <h4>Lo desarrollado</h4>
 
-          <h4>🧠 Valor agregado</h4>
-          <p>Este proyecto refleja mi capacidad para crear <strong>sitios web corporativos de alto impacto enfocados en empresas técnicas y de servicios especializados</strong>, combinando diseño estratégico, experiencia de usuario, captación comercial y posicionamiento SEO para negocios que necesitan transmitir confianza y generar conversiones reales.</p>
-      </section>
+        <ul>
+        <li>Diseño responsive corporativo</li>
+        <li>Sistema multilenguaje EN/ES</li>
+        <li>Formularios de cotización</li>
+        <li>Optimización SEO local</li>
+        <li>Integración con Google Analytics</li>
+        </ul>
+
+        <h4>Resultado</h4>
+
+        <p>
+        Mejora de presencia digital, aumento en captación de leads y plataforma preparada para futuras campañas de marketing.
+        </p>
+
+        </section>
   `,
 },
-    {        
-        title: "Preferred Energy Power",
-        image: {
-          src: PreferredEnergyPower.src,
-          width: PreferredEnergyPower.width,
-          height: PreferredEnergyPower.height,
-          alt: "Preferred Energy Power",
-        },
-        links: [
-          {
-            title: "Visitar",
-            link: "https://preferredenergypower.com/",
-          },
-        ],
-        extraInfo: [
-          {
-            "title": "Tecnologías y Herramientas",
-            "description": "WordPress, PHP, Elementor, WPForms, Contact Form 7, Yoast SEO, HTML-CSS, JavaScript, Google Analytics"
+    {
+            title: "Preferred Energy Power",
+            image: {
+              src: PreferredEnergyPower.src,
+              width: PreferredEnergyPower.width,
+              height: PreferredEnergyPower.height,
+              alt: "Preferred Energy Power",
             },
-          {
-            title: "Fecha",
-            description: "2025-08-01",
-          },
-          {
-            title: "Cliente",
-            description: "Preferred Energy Power",
-          },
-        ],
-        content: `
-            <section id="proyecto-preferred-energy-power" class="proyecto">
-                <h3>⚡ Proyecto: Preferred Energy Power – Sitio Web de Servicios de Energía Solar</h3>
-                <p><strong>Cliente:</strong> Preferred Energy Power – Empresa especializada en instalación de sistemas de energía solar y consultoría energética</p>
-                <p><strong>Rol:</strong> Desarrollador WordPress & Diseñador Web</p>
-                <p><strong>Año:</strong> 2025</p>
-                <p><strong>URL:</strong> 
-                    <a href="https://preferredenergypower.com" target="_blank" rel="noopener noreferrer">preferredenergypower.com</a>
+            links: [
+              {
+                title: "Visitar",
+                link: "https://preferredenergypower.com/",
+              },
+            ],
+            extraInfo: [
+              {
+                "title": "Tecnologías y Herramientas",
+                "description": "WordPress, PHP, Elementor, WPForms, Contact Form 7, Yoast SEO, HTML-CSS, JavaScript, Google Analytics"
+                },
+              {
+                title: "Fecha",
+                description: "2025-08-01",
+              },
+              {
+                title: "Cliente",
+                description: "Preferred Energy Power",
+              },
+            ],
+            content: `
+                <section>
+
+                <h3>⚡ Preferred Energy Power</h3>
+
+                <p>
+                    Sitio web corporativo desarrollado para una empresa de energía solar enfocada en instalación de paneles, consultoría energética y captación de clientes potenciales.
                 </p>
-                <hr>
-                <h4>🎯 Objetivo del proyecto</h4>
-                <p>Desarrollar una plataforma web corporativa moderna y profesional que presente los servicios de instalación de paneles solares, consultoría energética y asesoramiento técnico, generando confianza y facilitando el contacto directo con clientes potenciales interesados en la transición energética.</p>
-                <h4>🛠️ Tecnologías y herramientas</h4>
+
+                <p>
+                    <strong>Stack:</strong> WordPress, PHP, Elementor, JavaScript, SEO
+                </p>
+
+                <h4>Lo desarrollado</h4>
+
                 <ul>
-                    <li><strong>CMS:</strong> WordPress optimizado para rendimiento y SEO</li>
-                    <li><strong>Backend:</strong> PHP para lógica personalizada y procesamiento de formularios</li>
-                    <li><strong>Constructor visual:</strong> Elementor para diseño corporativo profesional y editable</li>
-                    <li><strong>Plugins estratégicos:</strong>
-                    <ul>
-                        <li><em>WPForms y Contact Form 7</em> para solicitudes de cotización y consultas técnicas</li>
-                        <li><em>Yoast SEO</em> para posicionamiento en búsquedas de "instalación solar" y "energía renovable"</li>
-                        <li><em>Elementor Pro</em> para landing pages de conversión</li>
-                    </ul>
-                    </li>
-                    <li><strong>Analítica:</strong> Google Analytics para medir leads y comportamiento del usuario</li>
-                    <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript para interactividad y animaciones</li>
+                    <li>Diseño corporativo responsive</li>
+                    <li>Formularios de cotización inteligentes</li>
+                    <li>Calculadora de ahorro energético</li>
+                    <li>Optimización SEO local</li>
+                    <li>Integración con Google Analytics</li>
                 </ul>
-                <h4>📱 Características destacadas</h4>
+
+                <h4>Resultados</h4>
+
                 <ul>
-                    <li><strong>Presentación de servicios:</strong> secciones detalladas de instalación residencial, comercial e industrial</li>
-                    <li><strong>Calculadora de ahorro energético:</strong> herramienta interactiva para estimar ahorros y retorno de inversión</li>
-                    <li><strong>Sistema de cotización inteligente:</strong> formularios multi-paso para captar información del proyecto del cliente</li>
-                    <li><strong>Portafolio de proyectos:</strong> galería de instalaciones realizadas con detalles técnicos</li>
-                    <li><strong>Diseño responsive y profesional:</strong> navegación optimizada en todos los dispositivos</li>
-                    <li><strong>SEO especializado:</strong> optimización para búsquedas locales y términos del sector energético</li>
-                    <li><strong>Blog educativo:</strong> artículos sobre beneficios de la energía solar, incentivos fiscales y casos de éxito</li>
-                    <li><strong>Llamadas a la acción estratégicas:</strong> botones de contacto y formularios en puntos clave de conversión</li>
-                    <li><strong>Certificaciones y credenciales:</strong> sección destacada de acreditaciones y garantías</li>
+                    <li>+80% en generación de leads</li>
+                    <li>+65% en solicitudes de cotización</li>
+                    <li>Mayor presencia y credibilidad digital</li>
                 </ul>
-                <h4>📊 Resultados e impacto</h4>
-                <ul>
-                    <li>+80% de mejora en generación de leads cualificados</li>
-                    <li>+65% de incremento en solicitudes de cotización tras el primer mes</li>
-                    <li>Reducción del 70% en tiempo de respuesta a consultas gracias a formularios estructurados</li>
-                    <li>Posicionamiento en primeras páginas para búsquedas locales de "instalación de paneles solares"</li>
-                    <li>Mayor credibilidad y presencia digital profesional en el mercado energético norteamericano</li>
-                </ul>
-                <h4>🧠 Valor agregado</h4>
-                <p>Este proyecto demuestra mi capacidad para desarrollar <strong>sitios web corporativos orientados a la generación de leads y conversión</strong>, integrando herramientas de captura de clientes potenciales, diseño estratégico y optimización SEO para empresas de servicios técnicos especializados en el sector de energía renovable.</p>
-            </section>
-        `,
-      },
+
+                </section>
+            `,
+          },
     {
         title: "Crealab Studio",
         image: {
@@ -194,51 +152,37 @@ export const HomepageData = [
           },
         ],
         content: `
-            <section id="proyecto-crealab" class="proyecto">
-                <h3>🧪 Proyecto: Crealab Studio – eCommerce + Panel Administrativo</h3>
-                <p><strong>Cliente:</strong> Estudio creativo especializado en impresión 3D, diseño personalizado y branding emocional</p>
-                <p><strong>Rol:</strong> Desarrollador Full Stack, Integrador de API y Estratega técnico</p>
-                <p><strong>Año:</strong> 2025</p>
-                <p><strong>URL:</strong> 
-                    <a href="https://crealabstudio.com.ar" target="_blank" rel="noopener noreferrer">crealabstudio.com.ar</a> | 
-                    <a href="https://app.crealabstudio.com.ar/dashboards/" target="_blank" rel="noopener noreferrer">Panel Administrativo</a>
+            <section>
+
+                <h3>🧪 Crealab Studio – eCommerce + Dashboard</h3>
+
+                <p>
+                    Plataforma eCommerce desarrollada para un estudio creativo de impresión 3D y productos personalizados, integrada con un panel administrativo para gestión de ventas, pedidos y stock.
                 </p>
-                <hr>
-                <h4>🎯 Objetivo del proyecto</h4>
-                <p>Diseñar una tienda online moderna y funcional para productos personalizados, junto con una aplicación administrativa que permita al cliente gestionar <strong>ventas, stock y órdenes</strong> de forma autónoma y eficiente, integrando diseño emocional y automatización técnica.</p>
-                <h4>🛠️ Tecnologías y herramientas</h4>
+
+                <p>
+                    <strong>Stack:</strong> React, TypeScript, Node.js, Express, MySQL, WordPress, WooCommerce
+                </p>
+
+                <h4>Lo desarrollado</h4>
+
                 <ul>
-                    <li><strong>Frontend:</strong> TypeScript + React para la aplicación administrativa</li>
-                    <li><strong>Backend:</strong> Node.js con Express, conectado a base de datos <strong>MySQL</strong></li>
-                    <li><strong>eCommerce:</strong> WordPress + WooCommerce como plataforma principal</li>
-                    <li><strong>Integración:</strong> API REST de WordPress para sincronización entre tienda y panel</li>
-                    <li><strong>Plugins clave:</strong>
-                    <ul>
-                        <li><em>WPForms</em> para formularios de contacto</li>
-                        <li><em>Yoast SEO</em> para posicionamiento orgánico</li>
-                        <li><em>Elementor</em> para edición visual</li>
-                    </ul>
-                    </li>
+                    <li>Tienda online responsive</li>
+                    <li>Dashboard administrativo privado</li>
+                    <li>Sincronización mediante API REST</li>
+                    <li>Gestión de stock y pedidos</li>
+                    <li>Sistema de usuarios y roles</li>
                 </ul>
-                <h4>📱 Características destacadas</h4>
+
+                <h4>Resultados</h4>
+
                 <ul>
-                    <li><strong>Diseño responsive:</strong> navegación fluida en todos los dispositivos</li>
-                    <li><strong>Catálogo autoadministrable:</strong> productos, precios y stock editables por el cliente</li>
-                    <li><strong>SEO optimizado:</strong> estructura semántica, metadatos y velocidad de carga</li>
-                    <li><strong>Dashboard privado:</strong> acceso seguro a estadísticas, pedidos y control de inventario</li>
-                    <li><strong>Sincronización en tiempo real:</strong> entre tienda y panel mediante API REST</li>
-                    <li><strong>Gestión de usuarios y roles:</strong> acceso segmentado para administración y logística</li>
+                    <li>+60% de eficiencia operativa</li>
+                    <li>+35% de aumento en ventas online</li>
+                    <li>Reducción de tareas manuales mediante automatización</li>
                 </ul>
-                <h4>📊 Resultados e impacto</h4>
-                <ul>
-                    <li>+60% de eficiencia en la gestión de pedidos y stock</li>
-                    <li>+35% de aumento en ventas online en los primeros 3 meses</li>
-                    <li>Reducción del 80% en tareas manuales gracias a la automatización</li>
-                    <li>Mayor autonomía del cliente en la administración de su negocio</li>
-                </ul>
-                <h4>🧠 Valor agregado</h4>
-                <p>Este proyecto refleja mi enfoque integral: <strong>desarrollo técnico, autonomía del cliente y escalabilidad</strong>. La combinación de eCommerce + panel administrativo permite a Crealab Studio crecer sin fricciones, con control total sobre su operación digital.</p>
-            </section>
+
+                </section>
         `,
       },
       {
@@ -271,41 +215,36 @@ export const HomepageData = [
 
         ],
         content: `
-                <section id="proyecto-thewinenation" class="proyecto">
-                    <h3>🍷 Proyecto: The Wine Nation – eCommerce de Vinos</h3>
-                    <p><strong>Cliente:</strong> The Wine Nation – Tienda online especializada en vinos premium y experiencias enológicas</p>
-                    <p><strong>Rol:</strong> Desarrollador Full Stack & Arquitecto técnico</p>
-                    <p><strong>Fecha:</strong> 1 de enero de 2024</p>
-                    <p><strong>URL:</strong> 
-                        <a href="https://thewinenation.com/" target="_blank" rel="noopener noreferrer">thewinenation.com</a>
-                    </p>
-                    <hr>
-                    <h4>🎯 Objetivo del proyecto</h4>
-                    <p>Diseñar una tienda online rápida, segura y escalable para la venta de vinos, con foco en la experiencia del usuario, la gestión eficiente de productos y la integración de pagos confiables.</p>
-                    <h4>🛠️ Tecnologías y herramientas</h4>
-                    <ul>
-                        <li><strong>Frontend:</strong> Next.js + TypeScript</li>
-                        <li><strong>Estilos:</strong> Styled Components para diseño modular y elegante</li>
-                        <li><strong>Backend:</strong> PHP para lógica de negocio y gestión de productos</li>
-                        <li><strong>Base de datos:</strong> MySQL para almacenamiento seguro de productos y clientes</li>
-                        <li><strong>Checkout:</strong> Integración de métodos de pago seguros</li>
-                    </ul>
-                    <h4>📱 Características destacadas</h4>
-                    <ul>
-                        <li><strong>Diseño responsive:</strong> navegación fluida en móviles, tablets y escritorio</li>
-                        <li><strong>Rendimiento optimizado:</strong> SSR con Next.js para carga rápida y SEO técnico</li>
-                        <li><strong>Gestión de productos:</strong> carga dinámica y administración eficiente mediante PHP</li>
-                        <li><strong>Base de datos robusta:</strong> MySQL estructurado para escalabilidad y seguridad</li>
-                        <li><strong>Checkout seguro:</strong> experiencia de compra confiable y sin fricciones</li>
-                    </ul>
-                    <h4>📊 Resultados e impacto</h4>
-                    <ul>
-                        <li>+50% de mejora en velocidad de carga respecto a versiones anteriores</li>
-                        <li>+40% de aumento en conversiones durante el primer trimestre</li>
-                        <li>Reducción de errores en gestión de stock gracias a la arquitectura backend</li>
-                    </ul>
-                    <h4>🧠 Valor agregado</h4>
-                    <p>Este proyecto refleja mi enfoque en <strong>eCommerce de alto rendimiento, arquitectura escalable y experiencia de usuario refinada</strong>, integrando diseño visual, automatización y seguridad para potenciar negocios digitales en el rubro gourmet.</p>
+                <section>
+
+                <h3>🍷 The Wine Nation – eCommerce de Vinos</h3>
+
+                <p>
+                    Tienda online desarrollada para una marca de vinos premium, enfocada en rendimiento, experiencia de compra y gestión eficiente de productos.
+                </p>
+
+                <p>
+                    <strong>Stack:</strong> Next.js, TypeScript, PHP, MySQL, Styled Components
+                </p>
+
+                <h4>Lo desarrollado</h4>
+
+                <ul>
+                    <li>eCommerce responsive optimizado para SEO</li>
+                    <li>Checkout seguro e integrado</li>
+                    <li>Gestión dinámica de productos</li>
+                    <li>Arquitectura escalable con MySQL</li>
+                    <li>Optimización de rendimiento con SSR</li>
+                </ul>
+
+                <h4>Resultados</h4>
+
+                <ul>
+                    <li>+50% de mejora en velocidad de carga</li>
+                    <li>+40% de aumento en conversiones</li>
+                    <li>Mayor estabilidad en gestión de stock</li>
+                </ul>
+
                 </section>
         `,
     },
@@ -338,55 +277,37 @@ export const HomepageData = [
           },
         ],
         content: `
-            <section id="proyecto-allsafebackflow" class="proyecto">
-                <h3>⚡ Proyecto: All Safe Backflow – Sitio Web de Servicios de Energía Solar</h3>
-                <p><strong>Cliente:</strong> All Safe Backflow – Empresa especializada en instalación de sistemas de energía solar y consultoría energética</p>
-                <p><strong>Rol:</strong> Desarrollador WordPress & Diseñador Web</p>
-                <p><strong>Año:</strong> 2025</p>
-                <p><strong>URL:</strong> 
-                    <a href="https://allsafebackflow.com" target="_blank" rel="noopener noreferrer">allsafebackflow.com</a>
-                </p>
-                <hr>
-                <h4>🎯 Objetivo del proyecto</h4>
-                <p>Desarrollar una plataforma web corporativa moderna y profesional que presente los servicios de instalación de paneles solares, consultoría energética y asesoramiento técnico, generando confianza y facilitando el contacto directo con clientes potenciales interesados en la transición energética.</p>
-                <h4>🛠️ Tecnologías y herramientas</h4>
-                <ul>
-                    <li><strong>CMS:</strong> WordPress optimizado para rendimiento y SEO</li>
-                    <li><strong>Backend:</strong> PHP para lógica personalizada y procesamiento de formularios</li>
-                    <li><strong>Constructor visual:</strong> Elementor para diseño corporativo profesional y editable</li>
-                    <li><strong>Plugins estratégicos:</strong>
-                    <ul>
-                        <li><em>WPForms y Contact Form 7</em> para solicitudes de cotización y consultas técnicas</li>
-                        <li><em>Yoast SEO</em> para posicionamiento en búsquedas de "instalación solar" y "energía renovable"</li>
-                        <li><em>Elementor Pro</em> para landing pages de conversión</li>
-                    </ul>
-                    </li>
-                    <li><strong>Analítica:</strong> Google Analytics para medir leads y comportamiento del usuario</li>
-                    <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript para interactividad y animaciones</li>
-                </ul>
-                <h4>📱 Características destacadas</h4>
-                <ul>
-                    <li><strong>Presentación de servicios:</strong> secciones detalladas de instalación residencial, comercial e industrial</li>
-                    <li><strong>Calculadora de ahorro energético:</strong> herramienta interactiva para estimar ahorros y retorno de inversión</li>
-                    <li><strong>Sistema de cotización inteligente:</strong> formularios multi-paso para captar información del proyecto del cliente</li>
-                    <li><strong>Portafolio de proyectos:</strong> galería de instalaciones realizadas con detalles técnicos</li>
-                    <li><strong>Diseño responsive y profesional:</strong> navegación optimizada en todos los dispositivos</li>
-                    <li><strong>SEO especializado:</strong> optimización para búsquedas locales y términos del sector energético</li>
-                    <li><strong>Blog educativo:</strong> artículos sobre beneficios de la energía solar, incentivos fiscales y casos de éxito</li>
-                    <li><strong>Llamadas a la acción estratégicas:</strong> botones de contacto y formularios en puntos clave de conversión</li>
-                    <li><strong>Certificaciones y credenciales:</strong> sección destacada de acreditaciones y garantías</li>
-                </ul>
-                <h4>📊 Resultados e impacto</h4>
-                <ul>
-                    <li>+80% de mejora en generación de leads cualificados</li>
-                    <li>+65% de incremento en solicitudes de cotización tras el primer mes</li>
-                    <li>Reducción del 70% en tiempo de respuesta a consultas gracias a formularios estructurados</li>
-                    <li>Posicionamiento en primeras páginas para búsquedas locales de "instalación de paneles solares"</li>
-                    <li>Mayor credibilidad y presencia digital profesional en el mercado energético norteamericano</li>
-                </ul>
-                <h4>🧠 Valor agregado</h4>
-                <p>Este proyecto demuestra mi capacidad para desarrollar <strong>sitios web corporativos orientados a la generación de leads y conversión</strong>, integrando herramientas de captura de clientes potenciales, diseño estratégico y optimización SEO para empresas de servicios técnicos especializados en el sector de energía renovable.</p>
-            </section>
+            <section>
+
+  <h3>🚰 All Safe Backflow – Sitio Corporativo</h3>
+
+  <p>
+    Sitio web corporativo desarrollado para una empresa especializada en servicios de backflow, enfocado en presencia profesional, captación de clientes y posicionamiento local.
+  </p>
+
+  <p>
+    <strong>Stack:</strong> WordPress, PHP, Elementor, JavaScript, SEO
+  </p>
+
+  <h4>Lo desarrollado</h4>
+
+  <ul>
+    <li>Diseño corporativo responsive</li>
+    <li>Formularios de contacto y cotización</li>
+    <li>Landing pages optimizadas para conversión</li>
+    <li>Optimización SEO local</li>
+    <li>Integración con Google Analytics</li>
+  </ul>
+
+  <h4>Resultados</h4>
+
+  <ul>
+    <li>Mayor generación de consultas online</li>
+    <li>Mejor posicionamiento local</li>
+    <li>Incremento en credibilidad digital</li>
+  </ul>
+
+</section>
         `,
       },
       {
@@ -418,44 +339,37 @@ export const HomepageData = [
           },
         ],
         content: `
-            <section id="proyecto-viaviajes" class="proyecto">
-                <h3>🌍 Proyecto: ViaViajes Turismo</h3>
-                <p><strong>Cliente:</strong> Agencia de turismo especializada en experiencias personalizadas</p>
-                <p><strong>Rol:</strong> Desarrollador Full Stack & Estratega técnico</p>
-                <p><strong>Año:</strong> 2025</p>
-                <p><strong>URL:</strong> <a href="https://viaviajes.tur.ar" target="_blank" rel="noopener noreferrer">viaviajes.tur.ar</a></p>
-                <hr>
-                <h4>🎯 Objetivo del proyecto</h4>
-                <p>Diseñar una plataforma web moderna, adaptable y escalable para una agencia de turismo, con foco en conversión, experiencia de usuario y posicionamiento orgánico.</p>
-                <h4>🛠️ Tecnologías y herramientas</h4>
-                <ul>
-                    <li><strong>WordPress</strong> como CMS principal</li>
-                    <li><strong>Tema Astro</strong> para diseño visual y estructura modular</li>
-                    <li><strong>Plugins clave:</strong>
-                    <ul>
-                        <li><em>WPForms</em> para formularios de contacto</li>
-                        <li><em>Yoast SEO</em> para optimización orgánica</li>
-                        <li><em>Elementor</em> para edición visual avanzada</li>
-                    </ul>
-                    </li>
-                </ul>
-                <h4>📱 Características destacadas</h4>
-                <ul>
-                    <li><strong>Diseño responsive:</strong> navegación fluida en móviles, tablets y escritorio</li>
-                    <li><strong>Optimización SEO avanzada:</strong> estructura semántica, metadatos, velocidad de carga</li>
-                    <li><strong>Integración de formularios:</strong> contacto directo con clientes potenciales</li>
-                    <li><strong>Panel autoadministrable:</strong> el cliente puede actualizar contenido sin asistencia técnica</li>
-                    <li><strong>Carga rápida y navegación intuitiva:</strong> ideal para usuarios que buscan destinos y paquetes</li>
-                </ul>
-                <h4>📊 Resultados e impacto</h4>
-                <ul>
-                    <li>+40% de mejora en velocidad de carga respecto al sitio anterior</li>
-                    <li>+25% de aumento en formularios recibidos en el primer mes</li>
-                    <li>Posicionamiento en primeras páginas de Google para búsquedas locales</li>
-                </ul>
-                <h4>🧠 Valor agregado</h4>
-                <p>Este proyecto refleja mi enfoque en <strong>soluciones reproducibles, organizadas y escalables</strong>, integrando diseño, automatización y mentoring técnico para que el cliente pueda evolucionar digitalmente sin depender de terceros.</p>
-                </section>
+            <section>
+
+  <h3>🌍 ViaViajes Turismo</h3>
+
+  <p>
+    Plataforma web desarrollada para una agencia de turismo enfocada en experiencias personalizadas, optimizada para conversión, posicionamiento SEO y gestión autónoma de contenido.
+  </p>
+
+  <p>
+    <strong>Stack:</strong> WordPress, Elementor, Yoast SEO, WPForms
+  </p>
+
+  <h4>Lo desarrollado</h4>
+
+  <ul>
+    <li>Diseño responsive y navegación intuitiva</li>
+    <li>Optimización SEO y mejora de rendimiento</li>
+    <li>Formularios de contacto integrados</li>
+    <li>Panel autoadministrable para el cliente</li>
+    <li>Estructura optimizada para paquetes y destinos</li>
+  </ul>
+
+  <h4>Resultados</h4>
+
+  <ul>
+    <li>+40% de mejora en velocidad de carga</li>
+    <li>+25% de aumento en formularios recibidos</li>
+    <li>Mayor visibilidad en búsquedas locales</li>
+  </ul>
+
+</section>
         `,
       },
     {
@@ -488,42 +402,37 @@ export const HomepageData = [
 
         ],
         content: `
-            <section id="proyecto-bluewave" class="proyecto">
-                <h3>🔋 Proyecto: Blue Wave Energy</h3>
-                <p><strong>Cliente:</strong> Empresa norteamericana dedicada a soluciones de energía solar y fuentes limpias</p>
-                <p><strong>Rol:</strong> Desarrollador Full Stack & Estratega técnico</p>
-                <p><strong>Fecha:</strong> 22 de febrero de 2025</p>
-                <p><strong>URL:</strong> 
-                    <a href="https://bluewave-energy.com/" target="_blank" rel="noopener noreferrer">bluewave-energy.com</a>
-                </p>
-                <hr>
-                <h4>🎯 Objetivo del proyecto</h4>
-                <p>Diseñar una plataforma institucional moderna, adaptable y visualmente atractiva para comunicar el compromiso de la empresa con las energías limpias, destacando sus servicios, valores y contacto directo con potenciales clientes.</p>
-                <h4>🛠️ Tecnologías y herramientas</h4>
-                <ul>
-                    <li><strong>CMS:</strong> WordPress</li>
-                    <li><strong>Frontend:</strong> HTML, CSS, plantilla base Astro</li>
-                    <li><strong>Plugins:</strong> WPForms (formularios), Yoast SEO (optimización)</li>
-                    <li><strong>Analítica:</strong> Google Analytics</li>
-                    <li><strong>Backend:</strong> PHP</li>
-                </ul>
-                <h4>📱 Características destacadas</h4>
-                <ul>
-                    <li><strong>Diseño responsive:</strong> navegación fluida en móviles, tablets y escritorio</li>
-                    <li><strong>Optimización SEO:</strong> estructura semántica, metadatos, velocidad de carga</li>
-                    <li><strong>Formularios de contacto:</strong> integración con WPForms para facilitar la comunicación</li>
-                    <li><strong>Panel autoadministrable:</strong> el cliente puede actualizar contenido sin asistencia técnica</li>
-                    <li><strong>Plantilla Astro personalizada:</strong> diseño elegante, adaptable y alineado con la identidad visual de la marca</li>
-                </ul>
-                <h4>📊 Resultados e impacto</h4>
-                <ul>
-                    <li>+50% de mejora en velocidad de carga respecto al sitio anterior</li>
-                    <li>Mayor visibilidad en buscadores gracias a la optimización SEO</li>
-                    <li>Incremento en solicitudes de contacto desde el primer mes</li>
-                </ul>
-                <h4>🧠 Valor agregado</h4>
-                <p>Este proyecto refleja mi enfoque en <strong>soluciones limpias, escalables y orientadas al propósito del cliente</strong>, integrando diseño visual, accesibilidad y herramientas de conversión para potenciar la presencia digital de empresas comprometidas con el futuro energético.</p>
-            </section>
+            <section>
+
+  <h3>🔋 Blue Wave Energy</h3>
+
+  <p>
+    Sitio web institucional desarrollado para una empresa de energía solar, enfocado en presencia profesional, captación de clientes y posicionamiento SEO.
+  </p>
+
+  <p>
+    <strong>Stack:</strong> WordPress, PHP, HTML, CSS, Astro, Yoast SEO
+  </p>
+
+  <h4>Lo desarrollado</h4>
+
+  <ul>
+    <li>Diseño responsive alineado a la marca</li>
+    <li>Optimización SEO y mejora de rendimiento</li>
+    <li>Formularios de contacto integrados</li>
+    <li>Panel autoadministrable para gestión de contenido</li>
+    <li>Integración con Google Analytics</li>
+  </ul>
+
+  <h4>Resultados</h4>
+
+  <ul>
+    <li>+50% de mejora en velocidad de carga</li>
+    <li>Mayor visibilidad en buscadores</li>
+    <li>Incremento en solicitudes de contacto</li>
+  </ul>
+
+</section>
         `,
       },
     
@@ -557,47 +466,37 @@ export const HomepageData = [
 
         ],
         content: `
-                <section id="proyecto-sagcomstore" class="proyecto">
-                    <h3>🛒 Proyecto: Sagcom Store – Tienda Online Personalizada</h3>
-                    <p><strong>Cliente:</strong> Sagcom Store – Comercio digital enfocado en productos tecnológicos y soluciones para el hogar</p>
-                    <p><strong>Rol:</strong> Desarrollador Full Stack & Estratega técnico</p>
-                    <p><strong>Fecha:</strong> 30 de enero de 2025</p>
-                    <p><strong>URL:</strong> 
-                        <a href="https://sagcomstore.com/" target="_blank" rel="noopener noreferrer">sagcomstore.com</a>
-                    </p>
-                    <hr>
-                    <h4>🎯 Objetivo del proyecto</h4>
-                    <p>Diseñar una tienda online moderna, visualmente atractiva y fácil de administrar, con foco en la experiencia del usuario, la conversión de ventas y la escalabilidad del negocio digital.</p>
-                    <h4>🛠️ Tecnologías y herramientas</h4>
-                    <ul>
-                        <li><strong>CMS:</strong> WordPress + WooCommerce</li>
-                        <li><strong>Frontend:</strong> HTML, CSS, plantilla base Astro</li>
-                        <li><strong>Backend:</strong> PHP personalizado</li>
-                        <li><strong>Plugins:</strong>
-                        <ul>
-                            <li><em>WPForms</em> para formularios de contacto</li>
-                            <li><em>Yoast SEO</em> para optimización orgánica</li>
-                        </ul>
-                        </li>
-                        <li><strong>Analítica:</strong> Google Analytics</li>
-                    </ul>
-                    <h4>📱 Características destacadas</h4>
-                    <ul>
-                        <li><strong>Diseño responsive:</strong> navegación fluida en móviles, tablets y escritorio</li>
-                        <li><strong>Optimización SEO:</strong> estructura semántica, metadatos y velocidad de carga</li>
-                        <li><strong>Formularios funcionales:</strong> contacto directo con clientes y automatización de consultas</li>
-                        <li><strong>Panel autoadministrable:</strong> gestión de productos, precios y stock sin asistencia técnica</li>
-                        <li><strong>Plantilla Astero personalizada:</strong> diseño elegante y adaptable a la identidad visual del negocio</li>
-                    </ul>
-                    <h4>📊 Resultados e impacto</h4>
-                    <ul>
-                        <li>+30% de aumento en visitas orgánicas tras el primer mes</li>
-                        <li>Reducción del 50% en consultas manuales gracias a formularios automatizados</li>
-                        <li>Mayor autonomía del cliente en la gestión de su catálogo digital</li>
-                    </ul>
-                    <h4>🧠 Valor agregado</h4>
-                    <p>Este proyecto refleja mi enfoque en <strong>soluciones reproducibles, escalables y orientadas a la conversión</strong>, integrando diseño visual, automatización y herramientas de análisis para potenciar el crecimiento de negocios digitales.</p>
-                </section>
+                <section>
+
+  <h3>🛒 Sagcom Store – eCommerce</h3>
+
+  <p>
+    Tienda online desarrollada para un comercio digital de tecnología y productos para el hogar, enfocada en experiencia de usuario, conversión y administración autónoma.
+  </p>
+
+  <p>
+    <strong>Stack:</strong> WordPress, WooCommerce, PHP, HTML, CSS, Astro
+  </p>
+
+  <h4>Lo desarrollado</h4>
+
+  <ul>
+    <li>eCommerce responsive y optimizado para SEO</li>
+    <li>Gestión autoadministrable de productos y stock</li>
+    <li>Formularios automatizados de contacto</li>
+    <li>Integración con Google Analytics</li>
+    <li>Diseño adaptable a la identidad visual de la marca</li>
+  </ul>
+
+  <h4>Resultados</h4>
+
+  <ul>
+    <li>+30% de aumento en tráfico orgánico</li>
+    <li>Reducción de consultas manuales</li>
+    <li>Mayor autonomía en gestión del catálogo</li>
+  </ul>
+
+</section>
         `,
     },
     {
@@ -630,41 +529,37 @@ export const HomepageData = [
 
         ],
         content: `
-                <section id="proyecto-lumiflowca" class="proyecto">
-                    <h3>💡 Proyecto: Lumiflowca – Rediseño Web con React</h3>
-                    <p><strong>Cliente:</strong> Lumiflowca – Marca creativa enfocada en diseño, identidad visual y presencia digital</p>
-                    <p><strong>Rol:</strong> Desarrollador Frontend & Diseñador técnico</p>
-                    <p><strong>Fecha:</strong> 10 de enero de 2025</p>
-                    <p><strong>URL:</strong> 
-                        <a href="https://lumiflowca.com/" target="_blank" rel="noopener noreferrer">lumiflowca.com</a>
-                    </p>
-                    <hr>
-                    <h4>🎯 Objetivo del proyecto</h4>
-                    <p>Rediseñar completamente el sitio web institucional de Lumiflowca, mejorando su estética, rendimiento y experiencia de usuario, con una arquitectura moderna y escalable que refleje la identidad visual de la marca.</p>
-                    <h4>🛠️ Tecnologías y herramientas</h4>
-                    <ul>
-                        <li><strong>Frontend:</strong> React + TypeScript</li>
-                        <li><strong>Estilos:</strong> Styled Components para diseño modular y reutilizable</li>
-                        <li><strong>Diseño base:</strong> Taylor Brands como referencia visual</li>
-                        <li><strong>Optimización:</strong> HTML semántico, SEO técnico y mejoras de rendimiento</li>
-                    </ul>
-                    <h4>📱 Características destacadas</h4>
-                    <ul>
-                        <li><strong>Rediseño completo:</strong> estructura visual renovada, navegación intuitiva y estética moderna</li>
-                        <li><strong>Optimización SEO:</strong> metadatos, estructura semántica y velocidad de carga mejorada</li>
-                        <li><strong>Formularios interactivos:</strong> contacto directo con visitantes y clientes</li>
-                        <li><strong>Experiencia de usuario mejorada:</strong> navegación fluida, accesibilidad y rendimiento optimizado</li>
-                        <li><strong>Diseño adaptable:</strong> visual coherente en móviles, tablets y escritorio</li>
-                    </ul>
-                    <h4>📊 Resultados e impacto</h4>
-                    <ul>
-                        <li>+45% de mejora en velocidad de carga</li>
-                        <li>Mayor retención de usuarios gracias al rediseño visual</li>
-                        <li>Incremento en formularios recibidos y consultas desde el sitio</li>
-                    </ul>
-                    <h4>🧠 Valor agregado</h4>
-                    <p>Este proyecto refleja mi enfoque en <strong>interfaces modernas, diseño emocional y código escalable</strong>, integrando herramientas visuales y técnicas para potenciar la identidad digital de marcas creativas.</p>
-                </section>
+                <section>
+
+  <h3>💡 Lumiflowca – Rediseño Web</h3>
+
+  <p>
+    Rediseño completo del sitio web de una marca creativa, enfocado en mejorar estética, rendimiento y experiencia de usuario con una arquitectura frontend moderna.
+  </p>
+
+  <p>
+    <strong>Stack:</strong> React, TypeScript, Styled Components
+  </p>
+
+  <h4>Lo desarrollado</h4>
+
+  <ul>
+    <li>Rediseño visual completo y navegación optimizada</li>
+    <li>Interfaces responsive y modernas</li>
+    <li>Optimización SEO y mejora de rendimiento</li>
+    <li>Formularios interactivos de contacto</li>
+    <li>Arquitectura frontend escalable</li>
+  </ul>
+
+  <h4>Resultados</h4>
+
+  <ul>
+    <li>+45% de mejora en velocidad de carga</li>
+    <li>Mayor retención de usuarios</li>
+    <li>Incremento en consultas desde el sitio</li>
+  </ul>
+
+</section>
         `,
     },
     
