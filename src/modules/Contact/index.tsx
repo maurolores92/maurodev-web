@@ -123,10 +123,10 @@ export const Contact: FC = () => {
                             variant="background-text"
                             bgText="Email"
                             boxAsLink={true}
-                            href="mailto:info@codewithmauricio.tech"
+                            href="mailto:mauricioloresdev@gmail.com"
                             target="_blank"
                         >
-                            <h3>info@codewithmauricio.tech</h3>
+                            <h3>mauricioloresdev@gmail.com</h3>
                             <p>
                                 Envíame un correo electrónico si tienes alguna pregunta
                             </p>

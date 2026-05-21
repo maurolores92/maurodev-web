@@ -22,12 +22,12 @@ export const About: FC<AboutProps> = ({ hideExp }) => {
                     <S.AboutContentText>
                         <FadeIn>
                             <p>
-                            Soy desarrollador full stack y trabajo creando sitios web, eCommerce y plataformas personalizadas para negocios y marcas. Me enfoco en desarrollar productos rápidos, funcionales y fáciles de administrar, combinando diseño, experiencia de usuario y lógica backend.
+                            Soy desarrollador full stack y trabajo creando sitios web, eCommerce y plataformas personalizadas para negocios y marcas. Me enfoco en desarrollar productos rápidos, funcionales y fáciles de administrar, combinando diseño, experiencia de usuario y desarrollo backend.
                             </p>
 
                             <h3>¿Que puedo hacer?</h3>
                             <p>
-                            Trabajo principalmente con React, Next.js, TypeScript, Node.js y MySQL, además de WordPress y WooCommerce para soluciones comerciales. Me gusta construir proyectos escalables, optimizados y pensados para resolver necesidades reales.
+                            Trabajo principalmente con React, Next.js, TypeScript, Node.js y MySQL, además de WordPress y WooCommerce para soluciones comerciales. Me interesa crear proyectos modernos, optimizados y pensados para resolver necesidades reales.
                             </p>
                         </FadeIn>
                         <FadeIn>

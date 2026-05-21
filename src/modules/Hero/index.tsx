@@ -30,7 +30,7 @@ export const Hero: FC = () => {
                         </S.PreHeading>
                         <S.HeroTitle>Full Stack Developer</S.HeroTitle>
                         <p>
-                            Especializado en plataformas web modernas, eCommerce y sistemas escalables.
+                            Desarrollo plataformas web modernas, eCommerce y sistemas personalizados para negocios y marcas
                         </p>
                     </FadeIn>
                     <FadeIn delay={0.3}>

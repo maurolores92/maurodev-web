@@ -10,7 +10,7 @@ const links = [
 ];
 
 // Create a stream to write to
-const stream = new SitemapStream({ hostname: "https://codewithmauricio.tech" });
+const stream = new SitemapStream({ hostname: "https://maurodev.online" });
 
 // Return a promise that resolves with your XML string
 streamToPromise(Readable.from(links).pipe(stream))

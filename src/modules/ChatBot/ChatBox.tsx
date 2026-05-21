@@ -66,7 +66,7 @@ const steps = [
     { value: 'phone', label: 'Por Teléfono', trigger: 'contactPhone' },
     { value: 'back', label: 'Volver', trigger: 'options' },
 ]},
-{ id: 'contactEmail', message: 'Puedes contactarme por email a info@codewithmauricio.com. ¡Espero tu mensaje!', end: true },
+{ id: 'contactEmail', message: 'Puedes contactarme por email a mauricioloresdev@gmail.com. ¡Espero tu mensaje!', end: true },
 { id: 'contactPhone', message: 'Puedes contactarme por teléfono al +54 11 2688 2173. Estaré disponible para atenderte.', end: true },
 
 ];
