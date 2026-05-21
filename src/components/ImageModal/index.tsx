@@ -4,6 +4,7 @@ import { Image } from "@static/images";
 import { FadeIn } from "@utils/animations/FadeIn";
 
 type ImageModalProps = {
+    title: string;
     image: {
         src: string;
         width?: number | string;
@@ -23,6 +24,7 @@ type ImageModalProps = {
 };
 
 export const ImageModal: FC<ImageModalProps> = ({
+    title,
     content,
     extraInfo,
     image,
@@ -108,6 +110,7 @@ export const ImageModal: FC<ImageModalProps> = ({
                         ))}
                     </S.ImageModalLinks>
                     <S.ImageModalContentWrapper>
+                        <h2>{title}</h2>
                         <div dangerouslySetInnerHTML={{ __html: content }} />
                         <S.ImageModalExtraInfo>
                             {extraInfo.map((info, index) => (
