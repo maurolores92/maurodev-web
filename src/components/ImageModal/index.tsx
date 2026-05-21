@@ -113,7 +113,18 @@ export const ImageModal: FC<ImageModalProps> = ({
                             {extraInfo.map((info, index) => (
                                 <React.Fragment key={index}>
                                     <h3>{info.title}</h3>
-                                    <p>{info.description}</p>
+                                    {/Tecnolog/i.test(info.title) ? (
+                                        <S.TopicList>
+                                            {info.description
+                                                .split(/,\s*/)
+                                                .filter(Boolean)
+                                                .map((topic) => (
+                                                    <S.TopicButton key={topic}>{topic}</S.TopicButton>
+                                                ))}
+                                        </S.TopicList>
+                                    ) : (
+                                        <p>{info.description}</p>
+                                    )}
                                 </React.Fragment>
                             ))}
                         </S.ImageModalExtraInfo>

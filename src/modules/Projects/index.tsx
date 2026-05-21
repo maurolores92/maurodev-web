@@ -35,11 +35,11 @@ export const Projects: FC<ProjectsProps> = ({ data }) => {
             data.map((project, index) => (
                 <ImageModal
                     key={index}
+                    title={project.title}
                     image={project.image}
                     links={project.links}
                     extraInfo={project.extraInfo}
                     content={project.content}
-                    
                 />
             )),
         [data]
