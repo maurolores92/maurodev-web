@@ -22,12 +22,12 @@ export const About: FC<AboutProps> = ({ hideExp }) => {
                     <S.AboutContentText>
                         <FadeIn>
                             <p>
-                            Soy un desarrollador web freelance, especializado en soluciones full stack modernas y escalables. Me mantengo en formación continua en tecnologías como JavaScript, TypeScript y React, y trabajo tanto en frontend como en backend para crear productos innovadores, accesibles y funcionales que se adaptan a las necesidades de cada cliente y usuario.
+                            Soy desarrollador full stack y trabajo creando sitios web, eCommerce y plataformas personalizadas para negocios y marcas. Me enfoco en desarrollar productos rápidos, funcionales y fáciles de administrar, combinando diseño, experiencia de usuario y lógica backend.
                             </p>
 
                             <h3>¿Que puedo hacer?</h3>
                             <p>
-                            Desarrollo proyectos web de forma independiente, utilizando herramientas avanzadas como React, Next.js, TypeScript, Node.js, Express y NestJS, además de bases de datos como MySQL. Mi experiencia me permite crear aplicaciones eficientes, seguras y de alto rendimiento, integrando las últimas tendencias y tecnologías del sector para ofrecer resultados profesionales y personalizados.
+                            Trabajo principalmente con React, Next.js, TypeScript, Node.js y MySQL, además de WordPress y WooCommerce para soluciones comerciales. Me gusta construir proyectos escalables, optimizados y pensados para resolver necesidades reales.
                             </p>
                         </FadeIn>
                         <FadeIn>
